@@ -1,6 +1,10 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
+//Plan Before Coding: This project is likely easier because my final is nearly identical.
+//The only difference is that 5 cards are dealed at once, and I do not have to work
+//within the mindset of an actual visual area i.e. Jframe. The most time consuming part is
+//going to be the unique card coding.
 
 package com.mycompany.unit4test;
 
